@@ -1,0 +1,8 @@
+# Configurações do VS Code e Sistema Operativo
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Ficheiros de teste ou dados sensíveis pessoais
+*.csv
+*.pdf
